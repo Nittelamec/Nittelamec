@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nittelamec
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning C++ as an enginner of the EPITA Lyon
-- 📫 How to reach me : dgn.cemalettin@gmail.com
+- 🌱 I’m currently following an enginner cursus at EPITA Lyon
+- 📫 How to reach me : cemalettin.dogan@epita.com
 - ⚡ Fun fact: I love Volley-ball, and I'm way better than you.
 
 <!---
