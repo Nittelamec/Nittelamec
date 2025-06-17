@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nittelamec
+- 👋 Hi, I’m @Nittelamec, a student at __EPITA: School of IT engineering__ !
 - 👀 I’m interested in programmation
-- 🌱 I’m currently following an enginner cursus at EPITA Lyon
+- 🌱 I’m currently following a cursus for Machine Learning and Artificial Intelligence
 - 📫 How to reach me : cemalettin.dogan@epita.com
-- ⚡ Fun fact: I love Volley-ball, and I'm way better than you.
 
 <!---
 Nittelamec/Nittelamec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
