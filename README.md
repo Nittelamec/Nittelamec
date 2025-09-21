@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nittelamec, a student at __EPITA: School of IT engineering__ !
+- 👋 Hi, I’m @Nittelamec, a student at __Politecnico di Milano__ !
 - 👀 I’m interested in programmation
 - 🌱 I’m currently following a cursus for Machine Learning and Artificial Intelligence
 - 📫 How to reach me : cemalettin.dogan@epita.com
